@@ -13,8 +13,8 @@ APP for viewing IP and Drive information at once
 
 #### Knowledge
 - Making the tab system
- - Outputs two data information with the QTabWidget
+  - Outputs two data information with the QTabWidget
 - Build the sorting system for user-friendly enviroments
- - Add ascending/descending functions to each colunms
+  - Add ascending/descending functions to each colunms
 
 
